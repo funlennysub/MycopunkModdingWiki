@@ -12,16 +12,16 @@ Now to use the CLI, you have to create an API token.
 This can be done by going to your account `Teams` and selecting the team you created
 in the [previous step](/dev/publishing/prerequisites#create-team).
 
-![Selecting your team](/images/publishing/packaging/team_settings.png)
+![Selecting your team](/images/publishing/packaging/team_settings.webp)
 
 Now press `Serivce Accounts` and click on `Add service account` button.
 
-![Adding a service account](/images/publishing/packaging/create_service_account_1.png)
+![Adding a service account](/images/publishing/packaging/create_service_account_1.webp)
 
 Give it a name you can easily recognize (e.g. `tcli` or `thunderstore-cli`) and now click `Add service account` below
 the input field.
 
-![Naming the service account](/images/publishing/packaging/create_service_account_2.png)
+![Naming the service account](/images/publishing/packaging/create_service_account_2.webp)
 
 One last step is to copy the token and store it somewhere for now.
 
@@ -29,7 +29,7 @@ One last step is to copy the token and store it somewhere for now.
 Don't share this token anywhere because it can be used to upload mods under your name.
 :::
 
-![Copying the API token](/images/publishing/packaging/create_service_account_3.png)
+![Copying the API token](/images/publishing/packaging/create_service_account_3.webp)
 
 ## Setting up environment for CLI {#tcli-env-setup}
 
@@ -44,7 +44,7 @@ To create it and other important files, simply run `tcli init` in your project r
 This will create several files:
 
 <ul class="no-bullet">
-    <li><div class="i-catppuccin:image"></div> <code>icon.png</code> - used for your mod icon on Thunderstore</li>
+    <li><div class="i-catppuccin:image"></div> <code>icon.webp</code> - used for your mod icon on Thunderstore</li>
     <li><div class="i-catppuccin:markdown"></div> <code>README.md</code> - readme of your mod to be shown on the Thunderstore webpage</li>
     <li><div class="i-catppuccin:toml"></div> <code>thunderstore.toml</code> - configuration file for your package</li>
 </ul>
@@ -75,7 +75,7 @@ AuthorName-PackageName = "0.0.1" // [!code --]
 BepInEx-BepInExPack_Mycopunk = "5.4.2403" // [!code ++]
 
 [build]
-icon = "icon.png"
+icon = "icon.webp"
 readme = "README.md"
 outdir = "build"
 
@@ -136,7 +136,7 @@ If you unzip your package it should look like this:
             </li>
         </ul>
     </li>
-    <li><div class="i-catppuccin:image"></div> <code>icon.png</code></li>
+    <li><div class="i-catppuccin:image"></div> <code>icon.webp</code></li>
     <li><div class="i-catppuccin:json"></div> <code>manifest.json</code></li>
     <li><div class="i-catppuccin:markdown"></div> <code>README.md</code></li>
     <li><div class="i-catppuccin:markdown"></div> <code>CHANGELOG.md</code> (Optional)</li>
@@ -153,21 +153,21 @@ If you want to know more about how to structure your package, you can use
 To test if your package got built correctly you can open up [r2modmanPlus](https://github.com/ebkr/r2modmanPlus),
 select `Mycopunk` in game list, go to `Settings` and scroll down until you find `Import local mod`
 
-![Importing local mod](/images/publishing/packaging/importing_local_mod_1.png)
+![Importing local mod](/images/publishing/packaging/importing_local_mod_1.webp)
 
 There you will have to click `Select file` button and select the `.zip` file `tcli` produced.
 
-![Selecting a local mod](/images/publishing/packaging/importing_local_mod_2.png)
+![Selecting a local mod](/images/publishing/packaging/importing_local_mod_2.webp)
 
 After you selected your package, you will be shown a screen on which you can make sure data is correct,
 if it is - click `Import local mod`,
 if not - check your `thunderstore.toml` and re-import again.
 
-![Checking fields](/images/publishing/packaging/importing_local_mod_3.png)
+![Checking fields](/images/publishing/packaging/importing_local_mod_3.webp)
 
 Once you import your mod, you should be able to see it in the list of installed mods
 
-![Installed local mod](/images/publishing/packaging/importing_local_mod_4.png)
+![Installed local mod](/images/publishing/packaging/importing_local_mod_4.webp)
 
 ::: tip
 Don't forget to uninstall it after, in case you plan on using your published version.

@@ -6,7 +6,7 @@ hero:
   name: "Mycopunk\nModding Wiki"
   tagline: My great project tagline
   image:
-    src: /icon.png
+    src: /icon.webp
   actions:
     - theme: brand
       text: Beginner's Guide

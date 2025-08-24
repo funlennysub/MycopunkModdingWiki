@@ -14,7 +14,7 @@ Before installing mods you will need to find your game directory, the best way t
 From your steam library, press right click on Mycopunk -> `Manage` -> `Browse local files`.
 This will open up a folder where `Mycopunk` binary is located.
 
-![Locating game root](/images/installation/manual/locating_game_folder.png)
+![Locating game root](/images/installation/manual/locating_game_folder.webp)
 
 ## Installing BepInEx
 
@@ -24,19 +24,19 @@ To get started first you have to download it from [here](https://thunderstore.io
 
 1. Click on `Manual Download` which will download a file named `BepInEx-BepInExPack_Mycopunk-5.4.2403.zip`
 
-![Downloading BepInEx](/images/installation/manual/downloading_bie.png)
+![Downloading BepInEx](/images/installation/manual/downloading_bie.webp)
 
 2. Extract its contents.
 
 You should see a structure like this:
 
-![Extracting BepInEx](/images/installation/manual/extracting_bie.png)
+![Extracting BepInEx](/images/installation/manual/extracting_bie.webp)
 
 3. Move contents of `BepInExPack_Mycopunk` to the game folder.
 
 After this your game folder has to look like this:
 
-![End result](/images/installation/manual/end_structure.png)
+![End result](/images/installation/manual/end_structure.webp)
 
 4. Launch the game once, for BepInEx to create everything, once you get to main menu you can close it.
 5. Find a mod you want to install, if you're downloading from [Thunderstore](https://thunderstore.io/c/mycopunk/)

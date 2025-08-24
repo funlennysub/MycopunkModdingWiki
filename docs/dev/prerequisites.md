@@ -24,7 +24,7 @@ If you see any version above 9.0.0 you can continue to a [next step](/dev/prereq
 To start making mods it's recommended to use .NET 9.0, in order to install it, you have to go to [this page](https://dotnet.microsoft.com/en-us/download)
 and click on the `Download` button and just follow the installation steps.
 
-![Download .NET SDK](/images/mod-setup/download_dotnet.png)
+![Download .NET SDK](/images/mod-setup/download_dotnet.webp)
 
 ### Installing an IDE {#ide-setup}
 

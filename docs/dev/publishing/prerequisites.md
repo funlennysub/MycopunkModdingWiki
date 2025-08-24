@@ -13,7 +13,7 @@ platform but Thunderstore is recommended.
 
 To upload mods to Thunderstore you will have to make an account. After that's done you have to create a team.
 
-![Steps for creating a team](/images/publishing/packaging/create_team.png)
+![Steps for creating a team](/images/publishing/packaging/create_team.webp)
 
 - Click on `Settings` button next to your username
 - Go to `Teams` tab under `Account settings`

@@ -32,7 +32,7 @@ but if you're familiar with command line you can use that.
 Build button is placed differently in every IDE
 
 ::: details Rider
-![Rider's build button](/images/mod-setup/rider_build.png)
+![Rider's build button](/images/mod-setup/rider_build.webp)
 :::
 
 Once mod is built, you now are able to test it game, but you need to do a few more things.
