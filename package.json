@@ -1,6 +1,7 @@
 {
   "name": "docs",
   "type": "module",
+  "packageManager": "pnpm@10.15.0",
   "devDependencies": {
     "@iconify-json/catppuccin": "^1.2.16",
     "@nolebase/vitepress-plugin-highlight-targeted-heading": "^2.18.2",

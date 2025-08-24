@@ -10,7 +10,7 @@ Before anything, you have to install the `tcli`, this can be done with `dotnet t
 
 Now to use the CLI, you have to create an API token.
 This can be done by going to your account `Teams` and selecting the team you created
-in the [previous step](/dev/publishing/index#create-team).
+in the [previous step](/dev/publishing/prerequisites#create-team).
 
 ![Selecting your team](/images/publishing/packaging/team_settings.png)
 

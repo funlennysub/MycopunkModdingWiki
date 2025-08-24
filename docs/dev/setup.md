@@ -42,5 +42,5 @@ find the file with the same name as your project, in our case it will be `MyFirs
 Now you can just copy it and paste into `BepInEx/plugins` folder.
 
 ::: info
-Depending on how you installed BepInEx during [setup](/dev/preparations#bepinex-setup), it will be different.
+Depending on how you installed BepInEx during [setup](/dev/prerequisites#bepinex-setup), it will be different.
 :::

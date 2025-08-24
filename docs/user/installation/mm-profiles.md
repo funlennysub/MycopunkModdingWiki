@@ -26,4 +26,4 @@ If you want to share your profile, you can do that by going to `Settings`,
 selecting the `Profile` tab and using the `Export profile as code` option.
 This will copy a code to clipboard that you can now paste somewhere to share.
 
-![Exporting a profile](/images/installation/profiles/exporting.png)
+[//]: # (![Exporting a profile]&#40;/images/installation/profiles/exporting.png&#41;)

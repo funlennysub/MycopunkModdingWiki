@@ -18,7 +18,7 @@ If you already have everything installed, you can skip to [Project Setup](/dev/s
 ::: tip
 To check existing your .NET version, you can open a command line (`win` + `R` -> cmd.exe) and run `dotnet --version`.
 
-If you see any version above 9.0.0 you can continue to a [next step](/dev/preparations#ide-setup).
+If you see any version above 9.0.0 you can continue to a [next step](/dev/prerequisites#ide-setup).
 :::
 
 To start making mods it's recommended to use .NET 9.0, in order to install it, you have to go to [this page](https://dotnet.microsoft.com/en-us/download)
@@ -29,7 +29,7 @@ and click on the `Download` button and just follow the installation steps.
 ### Installing an IDE {#ide-setup}
 
 ::: tip
-If you already have an IDE installed you can skip to [BepInEx setup](/dev/preparations#bepinex-setup).
+If you already have an IDE installed you can skip to [BepInEx setup](/dev/prerequisites#bepinex-setup).
 :::
 
 IDE, or Integrated Development Environment, is the place where you will be writing your mod's code.
@@ -59,7 +59,7 @@ Depending on your preference, you can download it using a mod manager or manual 
 - In manual case, BepInEx and your mod go inside the game directory
 
 ::: info
-For how to install BepInEx, you can follow the [player guide to mods](/user/installation).
+For how to install BepInEx, you can follow the [player guide to mods](/user/installation/).
 :::
 
 ### Decompiler
