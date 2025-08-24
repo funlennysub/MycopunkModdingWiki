@@ -1,0 +1,13 @@
+pre.shiki {
+    white-space: pre-wrap;
+}
+
+ul.no-bullet {
+    list-style-type: none;
+}
+
+.icon {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 0.25rem;
+}

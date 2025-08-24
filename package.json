@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "type": "module",
+  "devDependencies": {
+    "@iconify-json/catppuccin": "^1.2.16",
+    "@nolebase/vitepress-plugin-highlight-targeted-heading": "^2.18.2",
+    "@unocss/preset-icons": "^66.4.2",
+    "@unocss/preset-uno": "^66.4.2",
+    "unocss": "^66.4.2",
+    "vitepress": "2.0.0-alpha.12",
+    "vue": "^3.5.19",
+    "vue-icons": "^2.0.0"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  }
+}
