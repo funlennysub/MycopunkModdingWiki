@@ -15,7 +15,7 @@ For now, we will use the 2nd option.
 
 Simply run `tcli publish --token tss_your_token --package-version MAJOR.MINOR.PATCH`
 
-![tcli publish output](/images/publishing/uploading/tcli_publish.webp)
+![tcli publish output](/images/publishing/uploading/tcli_publish.webp){width="1596" height="1288"}
 
 If you're output looks similar to this then congratulations on your mod upload!
 

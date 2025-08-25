@@ -20,7 +20,7 @@ Go to a download page of your selected mod manager and follow the instructions.
 
 In case of `Gale` and `r2modman`, all you have to do is press `Manual Download` and follow the installer instructions.
 
-![Installing Gale or r2modman](/images/installation/mod-manager/install_thunderstore.webp)
+![Installing Gale or r2modman](/images/installation/mod-manager/install_thunderstore.webp){width="2634" height="1856"}
 
 ## Installing mods
 
@@ -30,19 +30,19 @@ To do so, just type `Mycopunk` in the search bar,
 while hovering over the card you can add the game to favorites (star in top right) so it's easier to select next time,
 now you can click `Select game` which will show you the next screen.
 
-![Selecting Game](/images/installation/mod-manager/selecting_game.webp)
+![Selecting Game](/images/installation/mod-manager/selecting_game.webp){width="2870" height="1930"}
 
 When asked about which profile to use, go with `Select profile` for now.
 
-![Selecting profile](/images/installation/profiles/profiles.webp)
+![Selecting profile](/images/installation/profiles/profiles.webp){width="2872" height="1024"}
 
 After selecting a profile, you now can go to `Online` tab and select a mod you want and press `Download`. 
 
-![Installing mods](/images/installation/mod-manager/installing_mods_1.webp)
+![Installing mods](/images/installation/mod-manager/installing_mods_1.webp){width="3578" height="1930"}
 
 Next press `Download with dependencies` and it should start downloading the mod you selected.
 
-![Downloading a mod](/images/installation/mod-manager/installing_mods_2.webp)
+![Downloading a mod](/images/installation/mod-manager/installing_mods_2.webp){width="1280" height="612"}
 
 ## Playing with mods
 
@@ -50,5 +50,5 @@ After you done installing mods you want, in order to launch the game with mods, 
 
 If everything went smoothly you should see a game launch, if not - consult [FAQ]() or ask for help on discord.
 
-![Launching modded](/images/installation/mod-manager/launching_modded.webp)
+![Launching modded](/images/installation/mod-manager/launching_modded.webp){width="3578" height="788"}
 

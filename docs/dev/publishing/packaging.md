@@ -12,16 +12,16 @@ Now to use the CLI, you have to create an API token.
 This can be done by going to your account `Teams` and selecting the team you created
 in the [previous step](/dev/publishing/prerequisites#create-team).
 
-![Selecting your team](/images/publishing/packaging/team_settings.webp)
+![Selecting your team](/images/publishing/packaging/team_settings.webp){width="2530" height="820"}
 
 Now press `Serivce Accounts` and click on `Add service account` button.
 
-![Adding a service account](/images/publishing/packaging/create_service_account_1.webp)
+![Adding a service account](/images/publishing/packaging/create_service_account_1.webp){width="2220" height="730"}
 
 Give it a name you can easily recognize (e.g. `tcli` or `thunderstore-cli`) and now click `Add service account` below
 the input field.
 
-![Naming the service account](/images/publishing/packaging/create_service_account_2.webp)
+![Naming the service account](/images/publishing/packaging/create_service_account_2.webp){width="1654" height="482"}
 
 One last step is to copy the token and store it somewhere for now.
 
@@ -29,7 +29,7 @@ One last step is to copy the token and store it somewhere for now.
 Don't share this token anywhere because it can be used to upload mods under your name.
 :::
 
-![Copying the API token](/images/publishing/packaging/create_service_account_3.webp)
+![Copying the API token](/images/publishing/packaging/create_service_account_3.webp){width="825" height="209"}
 
 ## Setting up environment for CLI {#tcli-env-setup}
 
@@ -153,21 +153,21 @@ If you want to know more about how to structure your package, you can use
 To test if your package got built correctly you can open up [r2modmanPlus](https://github.com/ebkr/r2modmanPlus),
 select `Mycopunk` in game list, go to `Settings` and scroll down until you find `Import local mod`
 
-![Importing local mod](/images/publishing/packaging/importing_local_mod_1.webp)
+![Importing local mod](/images/publishing/packaging/importing_local_mod_1.webp){width="2872" height="1930"}
 
 There you will have to click `Select file` button and select the `.zip` file `tcli` produced.
 
-![Selecting a local mod](/images/publishing/packaging/importing_local_mod_2.webp)
+![Selecting a local mod](/images/publishing/packaging/importing_local_mod_2.webp){width="1280" height="532"}
 
 After you selected your package, you will be shown a screen on which you can make sure data is correct,
 if it is - click `Import local mod`,
 if not - check your `thunderstore.toml` and re-import again.
 
-![Checking fields](/images/publishing/packaging/importing_local_mod_3.webp)
+![Checking fields](/images/publishing/packaging/importing_local_mod_3.webp){width="1280" height="1182"}
 
 Once you import your mod, you should be able to see it in the list of installed mods
 
-![Installed local mod](/images/publishing/packaging/importing_local_mod_4.webp)
+![Installed local mod](/images/publishing/packaging/importing_local_mod_4.webp){width="2498" height="314"}
 
 ::: tip
 Don't forget to uninstall it after, in case you plan on using your published version.

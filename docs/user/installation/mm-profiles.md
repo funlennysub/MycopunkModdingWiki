@@ -9,7 +9,7 @@ Profiles allow you to easily separate your mods, think of it as Minecraft modpac
 For now, you can just use the `Default` profile, but when you decide to start separating your mods,
 you can use `Create new` button to make a new profile which won't have any mods by default.
 
-![r2modman profiles](/images/installation/profiles/profiles.webp)
+![r2modman profiles](/images/installation/profiles/profiles.webp){width="2872" height="1024"}
 
 Another useful feature of profiles, is that you can share them with other people.
 
@@ -18,7 +18,7 @@ Another useful feature of profiles, is that you can share them with other people
 To import someone else's profile, press `Import/Update` button on profile selection screen
 and use the `From code` option where you will be able to enter the code you have.
 
-![Importing a profile](/images/installation/profiles/importing.webp)
+![Importing a profile](/images/installation/profiles/importing.webp){width="2870" height="1136"}
 
 ## Exporting profiles
 
